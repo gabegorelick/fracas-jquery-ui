@@ -12,7 +12,9 @@
   "trailing": true,
   "undef": true,
   "unused": true,
-
   "node": true,
-  "browser": true
+  "browser": true,
+  "globals": {
+    "jQuery": false
+  }
 }

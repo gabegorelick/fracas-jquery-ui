@@ -3,8 +3,6 @@
  * Includes: jquery.ui.core.js, jquery.ui.widget.js, jquery.ui.mouse.js, jquery.ui.sortable.js
  * Copyright 2014 jQuery Foundation and other contributors; Licensed MIT */
 
-var jQuery = require('jquery');
-
 (function( $, undefined ) {
 
   var uuid = 0,
